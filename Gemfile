@@ -39,4 +39,5 @@ gem 'jquery-rails'
 
 group :test do
   gem 'test-unit'
+  gem 'mocha', require: false
 end
